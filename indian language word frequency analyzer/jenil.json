@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-03-22 18:07:26",
+  "statistics": {
+    "total_words": 1,
+    "unique_words": 1,
+    "average_frequency": 1.0,
+    "max_frequency": 1,
+    "min_frequency": 1,
+    "standard_deviation": 0.0,
+    "lexical_diversity": 1.0,
+    "lexical_richness_percentage": 100.0
+  },
+  "word_frequencies": {
+    "jenil": {
+      "count": 1,
+      "percentage": 100.0
+    }
+  }
+}
